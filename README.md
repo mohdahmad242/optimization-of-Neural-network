@@ -6,7 +6,7 @@ Training a Very deep neural network is very time consuming. So, we use different
 One of the technique is to use optimized Gradient descent algorithm. I used four algorithm for comparision, Simple gradient desent, Gradient desent with momentum, RMSprop and Adam Optimiser.
 ***
 - Dataset - MNIST Fashion
-- Running on Google Colab 
+- Running on Google Colab(GPU)
 ***
 | Algorithm | Hyperparameters| Traning Time(sec)| Accuracy|
 | ------------- | ------------- | ------------- |------------- |
